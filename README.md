@@ -62,4 +62,4 @@ This project was created to:
 
 1. Clone the repository:
    ```bash
-   git clone
+   git clone https://github.com/Garenafanclub/Notepad_UsingJSwing.git
